@@ -8,13 +8,6 @@
 - Interested in: Create an App with React
 - Hobby: I like to read system language books
 
-## Status
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=crlotwhite&show_icons=true&theme=synthwave" />
-  </a>
-  </div>
-  <br />
 ## Tech Stack 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
